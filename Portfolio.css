@@ -1,12 +1,36 @@
 body{
-    background-color: Teal;
+    background-color: #edefe3;
 }
 
-.class{
+div{
+    border-radius: 5px;
+}
+
+#header{
     position: fixed;
     z-index: 1;
+    height: 100px;
+    background-color: #c0e2d9;
+    width: 99%;
+    float: right;
 }
 
 img{
     height: 200px;
+}
+
+#leftMargin{
+    position: relative;
+    background-color: #B0E0E6;
+    Width: 20%;
+    margin: 100px 0px 10px 5px;
+    float: left;
+}
+
+#center{
+    position: relative;
+    background-color: #abb2bc;
+    width: 78%;
+    float: right;
+    margin: 100px 5px 10px 0px;
 }
