@@ -1,0 +1,12 @@
+body{
+    background-color: Teal;
+}
+
+.class{
+    position: fixed;
+    z-index: 1;
+}
+
+img{
+    height: 200px;
+}
