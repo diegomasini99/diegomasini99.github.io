@@ -1,0 +1,42 @@
+#topMargin{
+    margin-top: 0px;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    background-color: #AAAAAA;
+}
+
+.top{
+    height: 100%;
+}
+
+#leftMargin{
+    margin-top: 100px;
+    width: 20%;
+    background-color: #555555;
+    float: left;
+    height: 1000px;
+}
+
+button{
+    display: list-item;
+}
+
+#main{
+    width: 79%;
+    float: right;
+    margin-top: 100px;
+}
+
+#main img{
+    display: inline;
+    clear: left;
+    margin-top: 110px;
+}
+
+#main img:hover {
+    margin-top: 0px;
+    height: 300px;
+    width: 300px;
+}
